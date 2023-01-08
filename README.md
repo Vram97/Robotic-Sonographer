@@ -1,1 +1,4 @@
 # Robotic-Sonographer
+![alt text](https://researchfeatures.com/wp-content/uploads/2017/05/DSC01780-1200x900.jpg)
+## Introduction
+This is a repository of the RBE501 course project. Medical sonography provides ergonomic and personnel related challenges that robotics can solve. This project analyzes a robotic system designed to position and press an ultrasound transducer at 3 different locations during a procedure. The physical design of the robot was made light-weight, with the least degrees of freedom as possible, and with motors that could accommodate the torque range required for the ultrasound procedure. Forward kinematics, inverse kinematics, and robot dynamics were the key tools utilized to design and analyze the robot to successfully perform the procedure without a human sonographer holding and pressing the ultrasonic probe.
